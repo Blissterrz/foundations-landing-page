@@ -107,3 +107,31 @@ ul {
     color: #3b4250;
     font-weight: 100;
 }
+
+.qoute-section {
+    display: flex;
+    flex-direction: column;
+    background-color: #e5e7eb;
+    height: 568px;
+    width: auto;
+    justify-content: center;
+    align-items: center;
+}
+
+.qoute {
+    margin: auto 320px;
+}
+
+.qoute-author {
+    text-align: right;
+    color: #1F2937;
+    font-size: 28px;
+    font-weight: bolder;
+}
+
+.qoute-text {
+    font-size: 36px;
+    font-weight: 100;
+    color: #1F2937;
+    font-style: italic;
+}
